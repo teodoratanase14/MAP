@@ -1,0 +1,5 @@
+1,Patient { name = 'Ariana', id = 2, city = Cluj, phone number = 3678 },2023-11-16
+2,Patient { name = 'Viorel', id = 3, city = Cluj, phone number = 2891 },2023-11-17
+3,Patient { name = 'Naomi', id = 4, city = Cluj, phone number = 2738911 },2023-11-19
+4,Patient { name = 'Noemi', id = 5, city = Cluj, phone number = 478392 },2023-11-23
+5,Patient { name = 'Ioana', id = 1, city = Cluj, phone number = 7181 },2023-11-15
